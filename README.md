@@ -11,10 +11,6 @@ The Yahtzee Game Simulator is a Python project that aims to replicate the popula
 
 Implement the core rules and logic of Yahtzee, including rolling dice, selecting dice to keep, and scoring combinations such as three of a kind, full house, and Yahtzee.
 
-> User Interaction
-
-Develop a user-friendly interface for players to input their choices, view the game state, and make decisions during their turn.
-
 > Computer Opponents
 
 Create computer-controlled opponents with varying levels of strategy and randomness to provide a challenging gaming experience.
@@ -23,17 +19,9 @@ Create computer-controlled opponents with varying levels of strategy and randomn
 
 Implement the scoring system to calculate and display the scores for each player at the end of each round.
 
-> Gameplay Options
-
-Allow users to customize game settings such as the number of players, the number of rounds, and the difficulty level of computer opponents.
-
 > Game Statistics
 
 Keep track of player statistics, including the number of wins, losses, and high scores.
-
-> Save and Load Games
-
-Implement the ability to save and load game progress so that players can continue their games at a later time.
 
 ### Technologies and Tools:
 
