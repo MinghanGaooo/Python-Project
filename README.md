@@ -26,18 +26,13 @@ Keep track of player statistics, including the number of wins, losses, and high 
 ### Technologies and Tools:
 
 Python: The project will be developed using Python, making use of its libraries and modules for random number generation and user input.
-Project Goals:
+
+### Project Goals:
 
 Create an engaging and interactive simulation of Yahtzee that captures the excitement and challenge of the real game.
 Develop clean and well-structured Python code that is easy to understand and maintain.
 Provide an opportunity for players to practice their strategic thinking and decision-making skills in a gaming environment.
 Project Deliverables:
-
-Upon completion, the Yahtzee Game Simulator will include the following:
-
-A Python program that simulates a game of Yahtzee with user interaction.
-A user guide or documentation explaining how to play the game and customize settings.
-Optional: A graphical user interface (GUI) to enhance the user experience.
 
 ### Uses
 
